@@ -1,0 +1,4 @@
+block_id=valentines_lucky_block
+sword_id=valentines_lucky_sword
+bow_id=valentines_lucky_bow
+potion_id=valentines_lucky_potion

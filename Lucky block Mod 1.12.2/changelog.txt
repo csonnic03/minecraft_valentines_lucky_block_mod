@@ -1,0 +1,14 @@
+WARNING: Uses Lucky Block for Minecraft 1.16.4-2 as base
+
+Additions:
+
+File Changes:
+
+Drop Changes:
+
+Removed:
+
+Notes:
+First released in May 2021.
+This release adds 1,100 drops over the original lucky block mod.
+The goal for this mod was to give people another lucky block mod to play.

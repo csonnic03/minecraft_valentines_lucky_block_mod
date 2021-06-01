@@ -1,0 +1,31 @@
+// 2 Luck
+ID=mini_mushroom_island,file=lbp/mini_mushroom_island.nbt
+ID=player_shoots_to_the_sky,file=lbp/player_shoots_to_the_sky.nbt
+
+// 1 Luck
+ID=lbp_mineshaft,file=lbp/lbp_mineshaft.nbt
+ID=villager_prison,file=lbp/villager_prison.nbt
+ID=lbp_full_rainbow,file=lbp/lbp_full_rainbow.nbt
+
+// 0 Luck
+ID=heart,file=lbp/heart.nbt
+ID=mini_end,file=lbp/mini_end.nbt
+ID=gamers,file,file=lbp/gamers.nbt
+ID=mini_jungle,file=lbp/mini_jungle.nbt
+ID=lbp_rainbow,file=lbp/lbp_rainbow.nbt
+
+ID=pink_lucky_block,file=lbp/pink_lucky_block.nbt
+ID=lbp_unfinished_portal,file=lbp/unfinished_portal.nbt
+ID=mini_warped_forest,file=lbp/mini_warped_forest.nbt
+ID=lbp_transgender_flag,file=lbp/lbp_transgender_flag.nbt
+
+// -1 Luck
+ID=cloud1,file=cloud1.nbt
+ID=fire_and_ice,file=lbp/fire_and_ice.nbt
+
+// -2 Luck
+ID=cloud2,file=cloud2.nbt
+ID=drowned_cage,file=lbp/drowned_cage.nbt
+ID=mini_basalt_delta,file=lbp/mini_basalt_delta.nbt
+ID=mini_crimson_forest,file=lbp/mini_crimson_forest.nbt
+ID=mini_soul_sand_valley,file=lbp/mini_soul_sand_valley.nbt
